@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(project http, Some(220ea013-536e-4540-9c72-10b482286fc5), Some(CommandSource(console0)))[0m
-[0m[[0m[0minfo[0m] [0m[0mset current project to http (in build file:/C:/Users/aanch/knoldus/assignment/)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
-[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\aanch\knoldus\assignment\src\main\scala\Hello.scala:3:6: not found: value HelloAgain[0m
-[0m[[0m[31merror[0m] [0m[0m     HelloAgain.hello()[0m
-[0m[[0m[31merror[0m] [0m[0m     ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
